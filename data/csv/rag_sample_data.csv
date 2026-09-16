@@ -1,0 +1,11 @@
+title,content,category,source
+Introduction to Machine Learning,Machine learning is a branch of artificial intelligence that enables computers to learn patterns from data and make predictions or decisions.,Machine Learning,ml_intro.csv
+Supervised Learning,"Supervised learning uses labeled data to learn the relationship between input features and target values. Regression predicts continuous values, while classification predicts categories.",Machine Learning,ml_intro.csv
+Unsupervised Learning,"Unsupervised learning works with data without labeled target values. It is commonly used to discover hidden patterns, groups, and structures in datasets.",Machine Learning,ml_intro.csv
+Overfitting,Overfitting occurs when a model learns the training data too closely and performs poorly on unseen data. Cross-validation and regularization can help reduce overfitting.,Machine Learning,ml_intro.csv
+What is RAG,Retrieval-Augmented Generation combines information retrieval with a language model. Relevant information is retrieved from an external knowledge source and provided as context to the model.,RAG,rag_intro.csv
+Document Loading,"A document loader converts files such as PDFs, text files, web pages, and other sources into documents that can be processed by a RAG pipeline.",RAG,rag_intro.csv
+Text Chunking,Large documents are divided into smaller chunks before creating embeddings. Chunk size and overlap can affect retrieval quality.,RAG,rag_intro.csv
+Embeddings,Embeddings are numerical representations of text that capture semantic information. Similar pieces of text tend to have similar vector representations.,RAG,rag_intro.csv
+Vector Search,A vector database stores embeddings and can retrieve documents that are semantically similar to a user's query.,RAG,rag_intro.csv
+RAG Retrieval,"During retrieval, the user's query is converted into an embedding and relevant document chunks are selected from the vector store.",RAG,rag_intro.csv
