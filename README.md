@@ -22,14 +22,14 @@ I will update this repository daily as I learn and implement different RAG conce
 ## Topics Covered
 
 - [x] Project Setup
-- [ ] Introduction to RAG
-- [ ] RAG Architecture
-- [ ] LangChain Fundamentals
-- [ ] Document Loaders
-- [ ] Document Processing
+- [x] Introduction to RAG
+- [x] RAG Architecture
+- [x] LangChain Fundamentals
+- [x] Document Loaders
+- [x] Document Processing
 - [ ] Text Splitters
 - [ ] Chunking
-- [ ] Embeddings
+- [x] Embeddings
 - [ ] Vector Databases
 - [ ] Similarity Search
 - [ ] Retrievers
